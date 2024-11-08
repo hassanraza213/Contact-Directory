@@ -1,0 +1,14 @@
+# Ignore the src/model folder
+/src/model/
+
+# Ignore the class directory (compiled files)
+class/
+
+# Ignore Eclipse project files
+/.classpath
+/.project
+
+# Optionally, ignore other build files or directories
+/.settings/
+/bin/
+/target/
