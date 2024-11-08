@@ -12,3 +12,6 @@ class/
 /.settings/
 /bin/
 /target/
+
+/bin/model
+/.settings
